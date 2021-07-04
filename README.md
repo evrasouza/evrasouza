@@ -3,7 +3,7 @@
 <br>
 - 🔭 Atualmente trabalho na Zup Innovation como Quality Assurance Automation.<br>
 - 📚 Sou formado em Ciência da Computação.<br>
-- 👩‍💻 +7 anos de experiência em testes de software entre projetos web, mobile e apis (IBM).<br>
+- 👩‍💻 +12 anos de experiência em testes de software entre projetos web, mobile e apis (IBM).<br>
 - ✨ Atualmente estou trabalhando com Java, Junit, Appium, Rest Assured para automação de API, JIRA e outras coisas.<br>
 - 🌱 Sempre tentando ser uma pessoa e um profissional melhor \0/.<br>
 - 🤘 Hobbies: xbox, guitarra, violão, ler.
