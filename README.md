@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho na [Zup Innovation](https://github.com/ZupIT) como Quality Assurance Automation.
 - 📚 Formado em Ciência da Computação.
-- 👩‍💻 +14 anos de experiência em testes de software entre projetos web, mobile e apis.
+- 👩‍💻 +12 anos de experiência em testes de software entre projetos web, mobile e apis.
 - ✨ Trabalhando no momento com teste automatizado com Java, Junit, Appium, Rest Assured, Postman para automação de API e Front Mobile e JIRA.
 - ⚡ Participando do bootcamp SpringReact da [Dev Superior](https://github.com/devsuperior)
 - 🌱 Sempre em busca de ser uma pessoa e um profissional melhor \0/.
