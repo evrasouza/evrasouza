@@ -1,9 +1,9 @@
 ### Obrigado pela visita
 
-- 🔭 Atualmente trabalho na [Zup Innovation](https://github.com/ZupIT) como Quality Assurance Automation.
+- 🔭 Atualmente trabalho na [Zup Innovation](https://github.com/ZupIT) como QA Engineer Specialist.
 - 📚 Formado em Ciência da Computação.
 - 👩‍💻 +12 anos de experiência em testes de software entre projetos web, mobile e apis.
-- ✨ Trabalhando no momento com teste automatizado com Java, Junit, Appium, Rest Assured, Postman para automação de API e Front Mobile e JIRA.
+- ✨ Trabalhando no momento com teste automatizado com Java, Junit, Appium, Rest Assured, Postman com automação de API e Front Mobile e JIRA.
 - ⚡ Participando do bootcamp SpringReact da [Dev Superior](https://github.com/devsuperior)
 - 🌱 Sempre em busca de ser uma pessoa e um profissional melhor \0/.
 - 🤘 Hobbies: Estar com a família, xbox, guitarra, violão, ler.
