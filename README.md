@@ -36,6 +36,11 @@ Obrigado pela visita
 #### 🧰 Últimos vídoes do Youtube
 
 <!-- YOUTUBE:START -->
+- [08. Template Literal - concatenando textos/variáveis  - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=teuIneHYTCs)
+- [22. Usando o spread nos argumentos da função  - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=RV-IWn805jU)
+- [27. Herança Prototipal &lpar;Prototypes&rpar; - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=cIAwSEPWmHI)
+- [16. Método array.find e array.findIndex - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=0YBtwRBpl-A)
+- [45. Método de object.values - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=QVt_U4WkjF0)
 <!-- YOUTUBE:END -->
 
 <br>
