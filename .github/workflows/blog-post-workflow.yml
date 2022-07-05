@@ -1,21 +1,25 @@
-name: Latest blog post workflow
 on:
   push:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour  
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  unsplash_stats_job:
     runs-on: ubuntu-latest
+    name: Updates Unsplash stats and blog posts
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: BLOG
-          feed_list: "https://medium.com/@juliodelimas"
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: YOUTUBE
-          feed_list: "https://www.youtube.com/c/JuliodeLimas/videos"
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Updating blog posts
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        comment_tag_name: BLOG
+        feed_list: "https://willianjusten.com.br/feed.xml"
+
+    - name: Gathering YouTube Videos
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        comment_tag_name: YOUTUBE
+        feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCa12brLWzCqnxN0KOyjfmJQ"          
