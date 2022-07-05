@@ -26,11 +26,11 @@ Obrigado pela visita
 #### 👨‍💻 Últimos posts do Blog 
 
 <!-- BLOG:START -->
-- [Meu ano de 2021](https://willianjusten.com.br/meu-ano-de-2021)
-- [Criando o efeito da chuva do Matrix com JavaScript puro](https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro)
-- [Usando Netlify CMS com NextJS, Vercel e GitHub](https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github)
-- [Usando o Preact no NextJS para mais performance](https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance)
-- [Como mostrar trechos de código num blog com NextJS](https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs)
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
+- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
+- [A guide to GitHub via CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
 <!-- BLOG:END -->
 
 #### 🧰 Últimos vídoes do Youtube
