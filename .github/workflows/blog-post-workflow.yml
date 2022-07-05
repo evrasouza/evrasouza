@@ -1,0 +1,21 @@
+name: Latest blog post workflow
+on:
+  push:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour  
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://medium.com/@juliodelimas"
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: YOUTUBE
+          feed_list: "https://www.youtube.com/c/JuliodeLimas/videos"
