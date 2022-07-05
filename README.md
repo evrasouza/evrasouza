@@ -23,7 +23,7 @@ Obrigado pela visita
 </a>
 </p>
 
-#### 👨‍💻 Últimos posts do Blog 
+#### 👨‍💻 Últimos posts Blog 
 
 <!-- BLOG:START -->
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
@@ -33,7 +33,7 @@ Obrigado pela visita
 - [A guide to GitHub via CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
 <!-- BLOG:END -->
 
-#### 🧰 Últimos vídoes do Youtube
+#### 🧰 Últimos vídeos do Youtube Playlist Testes Ágeis do @julioDelima
 
 <!-- YOUTUBE:START -->
 - [Como estruturar o que testar em User Stories](https://www.youtube.com/watch?v=Nl8MgDgnWDQ)
