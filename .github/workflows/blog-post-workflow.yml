@@ -16,7 +16,7 @@ jobs:
       uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: BLOG
-        feed_list: "https://willianjusten.com.br/feed.xml"
+        feed_list: "https://www.gautamkrishnar.com/feed/"
 
     - name: Gathering YouTube Videos
       uses: gautamkrishnar/blog-post-workflow@master
