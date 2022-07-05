@@ -26,6 +26,11 @@ Obrigado pela visita
 #### 👨‍💻 Últimos posts do Blog 
 
 <!-- BLOG:START -->
+- [Meu ano de 2021](https://willianjusten.com.br/meu-ano-de-2021)
+- [Criando o efeito da chuva do Matrix com JavaScript puro](https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro)
+- [Usando Netlify CMS com NextJS, Vercel e GitHub](https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github)
+- [Usando o Preact no NextJS para mais performance](https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance)
+- [Como mostrar trechos de código num blog com NextJS](https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs)
 <!-- BLOG:END -->
 
 #### 🧰 Últimos vídoes do Youtube
