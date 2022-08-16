@@ -36,6 +36,11 @@ Obrigado pela visita
 #### 🧰 Últimos vídeos do Youtube Playlist Testes Ágeis do @julioDelima
 
 <!-- YOUTUBE:START -->
+- [Como estruturar o que testar em User Stories](https://www.youtube.com/watch?v=Nl8MgDgnWDQ)
+- [Como um QA pode contribuir com o planejamento de um projeto ou de uma Sprint?](https://www.youtube.com/watch?v=JZxjA87Epyk)
+- [COMO FAZER TESTES EXPLORATÓRIOS EM APLICAÇÕES WEB MODERNAS](https://www.youtube.com/watch?v=Rz2U8T0uR94)
+- [Liderança de testes e QA no Ágil &lpar;Parte 2&rpar;](https://www.youtube.com/watch?v=WWnTdy66LUU)
+- [Liderança de testes e QA no Ágil &lpar;Parte 1&rpar;](https://www.youtube.com/watch?v=CVwqyvadCWc)
 <!-- YOUTUBE:END -->
 
 <br>
