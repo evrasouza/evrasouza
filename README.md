@@ -23,7 +23,7 @@ Obrigado pela visita
 </a>
 </p>
 
-#### 👨‍💻 Últimos posts Blog 
+#### 👨‍💻 Últimos posts Blog que acompanho
 
 <!-- BLOG:START -->
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
