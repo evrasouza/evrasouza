@@ -3,9 +3,9 @@
 Obrigado pela visita
 
 
-- 🔭 Atualmente trabalho na [Zup Innovation](https://github.com/ZupIT) como QA Engineer Specialist.
+- 🔭 Atualmente trabalho na [BRP](https://www.brp.com/en/) como QA Engineer Specialist.
 - 📚 Formado em Ciência da Computação.
-- 👩‍💻 +12 anos de experiência em testes de software entre projetos web, mobile e apis.
+- 👩‍💻 +14 anos de experiência em testes de software entre projetos web, mobile e apis.
 - 🌱 Sempre em busca de ser uma pessoa e um profissional melhor \0/.
 - 🤘 Hobbies: Estar com a família, xbox, guitarra, violão, ler.
 
